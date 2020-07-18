@@ -1,0 +1,93 @@
+html {
+    font-size: 1rem;   
+    scroll-behavior: smooth; 
+  }
+
+  .back-dark{
+    background-color: #343a40;
+  }
+
+.imagem-carrossel {
+    object-fit:cover; object-position: 0 80%;
+    height: 400px;
+  }
+
+  .thumb-redondo {
+    border-radius:80%; 
+    width:250px; 
+    height:250px; 
+    object-fit:cover; 
+    object-position: 0 60%; 
+  }
+
+  .borda-cor-especial {
+    border-color:grey;
+  }
+
+  .tamanho-img{
+    height: 200px;
+    width: 200px;
+    align-self: center;
+  }
+
+  .btn-whatsapp{  
+    border-radius: 20px;  
+    background-color: #07bc4c;
+  }
+
+  .citacao-format{
+    text-justify: auto;
+    font-size: 30px;
+  }
+  
+  .justifify-text{
+    text-align: justify;
+  }
+  .margin-habilidade{
+    margin-top: 50px;
+  }
+  .margin-perfil{
+    margin-top: 50px;
+  }
+  .card-imagem {
+    width: 18rem;
+    object-fit:cover;
+    object-position: 0 60%;
+  }
+  
+  .icon-code{
+    font-size: 40px;
+  }
+
+  .btn-block{
+    border-radius: 20px;
+    font-size: 20px;  
+  }
+
+  .icon-size-footer{
+    font-size: 35px;
+  }
+
+  .size-font-perfil{
+    font-size: 20px;
+  }
+
+  .size-font-header{
+    font-size: 15px;
+  }
+
+  .size-font-resumo-profissional{
+    font-size: 20px;
+  }
+
+  .size-font-menu{
+    font-size: 18px;
+  }
+
+  .color-font-perfil{
+    color: white;
+  }
+
+  .margin-habilidade{
+    margin-top: 120px;
+  }
